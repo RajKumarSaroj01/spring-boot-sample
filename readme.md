@@ -9,7 +9,9 @@ this project has the employee records
 ### Prerequisites
 
 * Java 8
-* Spring Boot, JPA
+* Spring Boot
+* Spring JPA
+* Hibernate
 * Intellij
 * git 
 * MySql

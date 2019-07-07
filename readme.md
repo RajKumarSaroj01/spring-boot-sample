@@ -2,9 +2,9 @@
 
 # Best Practice Spring Boot Project
 
-# Emp Management Project
+ Emp Management Project
 
-this project has the employee records
+
 
 ### Prerequisites
 

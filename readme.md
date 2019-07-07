@@ -22,6 +22,7 @@
 * Lombok
 * Mapstruct
 * Maven
+* Swagger
 
 
 ### Installing

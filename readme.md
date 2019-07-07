@@ -7,11 +7,18 @@ this project has the employee records
 ### Prerequisites
 
 * Java 8
-* Spring Boot
+* Spring Boot, JPA
 * Intellij
-* Windows OS
 * git 
 * MySql
+* H2
+* JUnit
+* Mockito
+* AOP
+* Lombok
+* Mapstruct
+* Maven
+
 
 ### Installing
 
@@ -41,22 +48,18 @@ Give an example
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+ 
 
 ## Versioning
 
 
 ## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+ 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
+ 
 
 ### Reference Documentation
 For further reference, please consider the following sections:
